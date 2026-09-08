@@ -45,7 +45,7 @@ A centralized fleet management and telemetry platform designed to monitor and au
 * Secure token-based access control (**JWT**), role-based permissions, and automated CLI tooling for testing and internal operations.
 * Deployed behind secure infrastructure routing (**Cloudflare Tunnels**) for isolated and reliable service delivery.
 
-**Node.js · Express · Prisma · MariaDB · Traccar · Telemetry · Cloudflare**
+**React · Node.js · Express · TypeScript · Prisma · MariaDB · Traccar · Telemetry · Cloudflare**
 
 ### SaasMarket (Private)
 
@@ -55,7 +55,7 @@ A modern, cloud-based web Point of Sale (PDV) system built for retail operations
 * Modular backend architecture handling real-time stock control, order tracking, and sales analytics.
 * Multi-tenant data structures backed by **MariaDB** for transactional reliability.
 
-**Python · React · Tailwind CSS · MariaDB · Web POS**
+**TypeScript · React · Tailwind CSS · Node.JS · MariaDB · Web POS**
 
 ### NonSteamAuto
 
@@ -65,7 +65,7 @@ An automated library manager that detects and imports non-Steam games directly i
 * Automates banner, grid artwork, and icon asset mapping for seamless library presentation.
 * Tailored for streamlined use across desktop Linux and portable handheld setups.
 
-**Python · Linux · Steam · Automation · Desktop Utility**
+**React · TypeScript · Electron · Linux · Steam · Automation · Desktop Utility**
 
 ### GameHub
 
@@ -75,7 +75,7 @@ A unified dashboard and synchronization service for aggregating achievements and
 * Background synchronization routines polling platform APIs and emulator save states.
 * Clear visual progress tracking with per-title statistics and completion breakdowns.
 
-**Python · REST API · React · Automation**
+**React · TypeScript · REST API · Automation**
 
 ### Solaar Individual Battery
 
