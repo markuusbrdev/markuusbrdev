@@ -15,7 +15,7 @@ I build reliable systems from database architecture to local infrastructure.
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
 </p>
 
-[GitHub](https://github.com/markuusbrdev) · [LinkedIn]([https://linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/marcus-duarte-ferreira/)) · [Email](m.duarteferreira@protonmail.com)
+[GitHub](https://github.com/markuusbrdev) · [LinkedIn]([https://linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/marcus-duarte-ferreira)) · [Email](m.duarteferreira@protonmail.com)
 
 </div>
 
