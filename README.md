@@ -29,7 +29,7 @@ Prompt-to-prototype builder — shipping fast from systems architecture to deskt
 
 ## About me
 
-I'm a Brazilian developer focused on high-velocity software creation, combining full-stack web applications, desktop utilities, and Linux system automations. 
+I'm a Brazilian developer focused on high-velocity software creation, combining full-stack web applications, desktop utilities, mobile apps and Linux system automations. 
 
 I actively embrace **vibe coding** and modern AI-augmented workflows to eliminate boilerplate, iterate on ideas rapidly, and move from concept to working software in record time. Rather than replacing engineering rigor, I use LLMs and AI tooling as force multipliers on top of solid technical fundamentals — designing clean relational schemas, managing local Linux environments, and inspecting code down to the system level.
 
