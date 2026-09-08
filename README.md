@@ -57,7 +57,7 @@ A modern, cloud-based web Point of Sale (PDV) system built for retail operations
 
 **Python · React · Tailwind CSS · MariaDB · Web POS**
 
-### [NonSteamAuto](https://github.com/SEU_USUARIO/NonSteamAuto](https://github.com/markuusbrdev/NonSteamAuto)
+### NonSteamAuto
 
 An automated library manager that detects and imports non-Steam games directly into the Steam client.
 
@@ -67,7 +67,7 @@ An automated library manager that detects and imports non-Steam games directly i
 
 **Python · Linux · Steam · Automation · Desktop Utility**
 
-### [GameHub](https://github.com/SEU_USUARIO/GameHub](https://github.com/markuusbrdev/GamerHub)
+### GameHub
 
 A unified dashboard and synchronization service for aggregating achievements and trophies across multiple gaming platforms.
 
@@ -77,7 +77,7 @@ A unified dashboard and synchronization service for aggregating achievements and
 
 **Python · REST API · React · Automation**
 
-### [Solaar Individual Battery](https://github.com/SEU_USUARIO/solaar-individual-battery](https://github.com/markuusbrdev/solaar-individual-battery)
+### Solaar Individual Battery
 
 A GNOME Shell extension providing top-bar battery indicators tailored for Logitech MX series peripherals.
 
