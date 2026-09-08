@@ -1,10 +1,10 @@
 <div align="center">
 
-# Marcus · MarkuusBR
+# Marcus · markuusbrdev
 
-**Full-Stack Development · Systems Architecture · Linux Infrastructure**
+**Full-Stack Builder · Vibe Coding & AI-Augmented Dev · Linux Enthusiast**
 
-I build reliable systems from database architecture to local infrastructure.
+Prompt-to-prototype builder — shipping fast from systems architecture to desktop utilities.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -12,10 +12,12 @@ I build reliable systems from database architecture to local infrastructure.
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white" alt="GNOME" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/AI--Augmented-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="AI Augmented" />
 </p>
 
-[GitHub](https://github.com/markuusbrdev) · [LinkedIn]([https://linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/marcus-duarte-ferreira)) · [Email](m.duarteferreira@protonmail.com)
+[GitHub](https://github.com/markuusbrdev) · [LinkedIn](https://linkedin.com/in/marcus-duarte-ferreira) · [Email](mailto:m.duarteferreira@protonmail.com)
 
 </div>
 
@@ -23,28 +25,50 @@ I build reliable systems from database architecture to local infrastructure.
 
 ## About me
 
-I'm a Brazilian developer interested in building robust full-stack applications, managing local server environments, and automating operational workflows. I enjoy following a problem through the whole stack: from relational database queries and clean REST APIs to responsive interfaces and network infrastructure.
+I'm a Brazilian developer focused on high-velocity software creation, combining full-stack web applications, desktop utilities, and Linux system automations. 
 
-My day-to-day work spans Python, React, Tailwind CSS, and SQL databases, combined with virtualization on Proxmox, local Linux system optimization, and service containerization.
+I actively embrace **vibe coding** and modern AI-augmented workflows to eliminate boilerplate, iterate on ideas rapidly, and move from concept to working software in record time. Rather than replacing engineering rigor, I use LLMs and AI tooling as force multipliers on top of solid technical fundamentals — designing clean relational schemas, managing local Linux environments, and inspecting code down to the system level.
+
+My primary ecosystem involves Python, React, Tailwind CSS, and SQL databases, complemented by daily immersion in Linux customization, GNOME shell extensions, and gaming hardware integrations.
 
 ## Featured projects
 
-### [ChamadosMais](https://github.com/SEU_USUARIO/ChamadosMais)
+### [SaasMarket](https://github.com/SEU_USUARIO/SaasMarket)
 
-A full-stack management and service-desk system designed to track infrastructure, hardware assets, and technical service requests.
+A modern, cloud-based web Point of Sale (PDV) system built for retail operations.
 
-* Modular backend in **Python**, handling automated ticket routing and relational database schemas.
-* Modern, responsive interface built with **React** and **Tailwind CSS**.
-* Optimized queries on **MariaDB** for equipment inventories and status reports.
+* Fast, low-latency checkout interface designed with **React** and **Tailwind CSS**.
+* Modular backend architecture handling real-time stock control, order tracking, and sales analytics.
+* Multi-tenant data structures backed by **MariaDB** for transactional reliability.
 
-**Python · React · Tailwind CSS · MariaDB**
+**Python · React · Tailwind CSS · MariaDB · Web POS**
 
-### [Homelab & Infrastructure Automation](https://github.com/SEU_USUARIO)
+### [NonSteamAuto](https://github.com/SEU_USUARIO/NonSteamAuto)
 
-Configuration scripts and infrastructure-as-code for self-hosted virtual machines, storage, and networking.
+An automated library manager that detects and imports non-Steam games directly into the Steam client.
 
-* **Proxmox VE** orchestration for microservices and LXC containers.
-* Network segmentation, local storage management with OpenMediaVault, and automated backup routines.
-* Shell scripts for automation and workstation maintenance under Arch Linux.
+* Parses and safely injects shortcuts directly into Steam's binary `shortcuts.vdf` format.
+* Automates banner, grid artwork, and icon asset mapping for seamless library presentation.
+* Tailored for streamlined use across desktop Linux and portable handheld setups.
 
-**Linux · Proxmox · Networking · Bash · Docker**
+**Python · Linux · Steam · Automation · Desktop Utility**
+
+### [GameHub](https://github.com/SEU_USUARIO/GameHub)
+
+A unified dashboard and synchronization service for aggregating achievements and trophies across multiple gaming platforms.
+
+* Centralizes achievement status and progression tracking into a single normalized view.
+* Background synchronization routines polling platform APIs and emulator save states.
+* Clear visual progress tracking with per-title statistics and completion breakdowns.
+
+**Python · REST API · React · Automation**
+
+### [Solaar Individual Battery](https://github.com/SEU_USUARIO/solaar-individual-battery)
+
+A GNOME Shell extension providing top-bar battery indicators tailored for Logitech MX series peripherals.
+
+* Communicates via **DBus** with **Solaar** to query individual battery levels and charging states in real time.
+* Lightweight top-panel indicators built with native GNOME UI styling and configurable polling intervals.
+* Built specifically for seamless multi-device tracking with Logitech MX Master and MX Keys hardware.
+
+**GNOME Shell · JavaScript (GJS) · DBus · Linux · Logitech MX**
