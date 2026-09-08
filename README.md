@@ -36,7 +36,7 @@ My primary ecosystem involves Python, React, Tailwind CSS, and SQL databases, co
 
 ## Featured projects
 
-### GCI(Private)
+### GCI (Private)
 
 A centralized fleet management and telemetry platform designed to monitor and automate vehicle tracking in real time.
 
