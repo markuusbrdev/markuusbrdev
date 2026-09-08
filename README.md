@@ -1,6 +1,6 @@
 <div align="center">
 
-# Marcus · markuusbrdev
+# Marcus Duarte · markuusbrdev
 
 **Full-Stack Builder · Vibe Coding & AI-Augmented Dev · Linux Enthusiast**
 
@@ -13,7 +13,8 @@ Prompt-to-prototype builder — shipping fast from systems architecture to deskt
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white" alt="GNOME" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/KDE-4A86CF?style=flat-square&logo=gnome&logoColor=white" alt="KDE" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=cursor&logoColor=white" alt="Antigravity" />
   <img src="https://img.shields.io/badge/AI--Augmented-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="AI Augmented" />
 </p>
 
