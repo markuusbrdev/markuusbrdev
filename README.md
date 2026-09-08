@@ -4,7 +4,7 @@
 
 **Full-Stack Builder · Vibe Coding & AI-Augmented Dev · Linux Enthusiast**
 
-Prompt-to-prototype builder — shipping fast from systems architecture to desktop utilities.
+Prompt-to-prototype builder — shipping fast from systems architecture to desktop and mobile utilities.
 
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
