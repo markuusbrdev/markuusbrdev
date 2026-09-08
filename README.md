@@ -36,7 +36,18 @@ My primary ecosystem involves Python, React, Tailwind CSS, and SQL databases, co
 
 ## Featured projects
 
-### [SaasMarket](https://github.com/SEU_USUARIO/SaasMarket)
+### GCI(Private)
+
+A centralized fleet management and telemetry platform designed to monitor and automate vehicle tracking in real time.
+
+* Robust backend engineered with **Node.js**, **Express**, and **Prisma ORM** over **MariaDB**.
+* Automated synchronization layer integrating with **Traccar** for real-time device mapping, telemetry polling, and automated vehicle registration.
+* Secure token-based access control (**JWT**), role-based permissions, and automated CLI tooling for testing and internal operations.
+* Deployed behind secure infrastructure routing (**Cloudflare Tunnels**) for isolated and reliable service delivery.
+
+**Node.js · Express · Prisma · MariaDB · Traccar · Telemetry · Cloudflare**
+
+### SaasMarket (Private)
 
 A modern, cloud-based web Point of Sale (PDV) system built for retail operations.
 
@@ -46,7 +57,7 @@ A modern, cloud-based web Point of Sale (PDV) system built for retail operations
 
 **Python · React · Tailwind CSS · MariaDB · Web POS**
 
-### [NonSteamAuto](https://github.com/SEU_USUARIO/NonSteamAuto)
+### [NonSteamAuto](https://github.com/SEU_USUARIO/NonSteamAuto](https://github.com/markuusbrdev/NonSteamAuto)
 
 An automated library manager that detects and imports non-Steam games directly into the Steam client.
 
@@ -56,7 +67,7 @@ An automated library manager that detects and imports non-Steam games directly i
 
 **Python · Linux · Steam · Automation · Desktop Utility**
 
-### [GameHub](https://github.com/SEU_USUARIO/GameHub)
+### [GameHub](https://github.com/SEU_USUARIO/GameHub](https://github.com/markuusbrdev/GamerHub)
 
 A unified dashboard and synchronization service for aggregating achievements and trophies across multiple gaming platforms.
 
@@ -66,7 +77,7 @@ A unified dashboard and synchronization service for aggregating achievements and
 
 **Python · REST API · React · Automation**
 
-### [Solaar Individual Battery](https://github.com/SEU_USUARIO/solaar-individual-battery)
+### [Solaar Individual Battery](https://github.com/SEU_USUARIO/solaar-individual-battery](https://github.com/markuusbrdev/solaar-individual-battery)
 
 A GNOME Shell extension providing top-bar battery indicators tailored for Logitech MX series peripherals.
 
